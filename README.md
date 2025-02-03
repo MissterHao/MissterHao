@@ -61,17 +61,17 @@ Sunday                   180 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/02/2025 00:43:40 UTC
+ Last Updated on 03/02/2025 00:42:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
