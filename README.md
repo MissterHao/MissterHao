@@ -61,17 +61,19 @@ Sunday                   177 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    29 mins             ███████████████████░░░░░░   77.29 % 
+TOML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/08/2025 00:48:00 UTC
+ Last Updated on 27/08/2025 00:46:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
