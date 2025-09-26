@@ -32,7 +32,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C333%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C333%20hrs%2025%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -61,17 +61,17 @@ Sunday                   177 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/09/2025 00:45:28 UTC
+ Last Updated on 26/09/2025 00:45:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
