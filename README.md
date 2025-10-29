@@ -61,18 +61,17 @@ Sunday                   180 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   3 mins              ████████████████████████░   95.63 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/10/2025 00:45:50 UTC
+ Last Updated on 29/10/2025 00:50:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
