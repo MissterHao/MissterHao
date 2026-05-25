@@ -32,8 +32,51 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C498%20hrs%2054%20mins-blue?style=flat)
 
- Last Updated on 24/05/2026 02:02:38 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                394 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+🌆 Daytime                894 commits         █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌃 Evening                658 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌙 Night                  507 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Wednesday                229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Thursday                 501 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Friday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Saturday                 311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   1 hr 14 mins        ██████████████░░░░░░░░░░░   55.37 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+
+🔥 Editors: 
+Cursor                   2 hrs 11 mins       ████████████████████████░   97.37 % 
+Claude Code              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+
+💻 Operating System: 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/05/2026 02:10:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
