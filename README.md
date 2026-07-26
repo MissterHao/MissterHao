@@ -32,6 +32,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C554%20hrs%2017%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -59,22 +61,22 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Vue                      1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Rust                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Markdown                 1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Vue                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 14 mins       █████████████░░░░░░░░░░░░   53.66 % 
-VS Code                  3 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.34 % 
+Claude Code              3 hrs 58 mins       ███████████████░░░░░░░░░░   58.69 % 
+VS Code                  2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
 
 💻 Operating System: 
-Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 01:28:40 UTC
+ Last Updated on 26/07/2026 01:31:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
