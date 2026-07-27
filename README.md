@@ -61,22 +61,22 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
-Markdown                 1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Vue                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Python                   1 hr 46 mins        ██████████████░░░░░░░░░░░   55.04 % 
+Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 58 mins       ███████████████░░░░░░░░░░   58.69 % 
-VS Code                  2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
+VS Code                  1 hr 48 mins        ██████████████░░░░░░░░░░░   56.30 % 
+Claude Code              1 hr 24 mins        ███████████░░░░░░░░░░░░░░   43.70 % 
 
 💻 Operating System: 
-Windows                  6 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 01:31:17 UTC
+ Last Updated on 27/07/2026 01:49:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
