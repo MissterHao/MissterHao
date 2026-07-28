@@ -32,7 +32,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C554%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C413%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -61,22 +63,45 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ██████████████░░░░░░░░░░░   55.04 % 
-Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Python                   1 hr 1 min          ████████████████████░░░░░   78.79 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        ██████████████░░░░░░░░░░░   56.30 % 
-Claude Code              1 hr 24 mins        ███████████░░░░░░░░░░░░░░   43.70 % 
+Claude Code              59 mins             ███████████████████░░░░░░   75.90 % 
+VS Code                  18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 13 mins (93.37%)
+
+✍️ 96 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 10,566,859 Input Tokens, 121,673 Output Tokens
+
+💵 $55.79 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 22 AI Prompts
+
+Opus                     96 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 99 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 01:49:58 UTC
+ Last Updated on 28/07/2026 01:23:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
