@@ -63,26 +63,26 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   40.18 % 
-Python                   49 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.62 % 
+Markdown                 1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.38 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 5 mins        ███████████████████░░░░░░   74.53 % 
-VS Code                  42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Claude Code              2 hrs 5 mins        ████████████████░░░░░░░░░   65.63 % 
+VS Code                  1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.37 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (92.75%)
+⏱ AI Coding Time: 2 hrs 36 mins (81.66%)
 
-✍️ 4,240 lines written by AI, 3 lines written by hand (99.93% AI-written)
+✍️ 4,240 lines written by AI, 4 lines written by hand (99.91% AI-written)
 
 🔤 67,731,751 Input Tokens, 356,069 Output Tokens
 
@@ -93,14 +93,14 @@ Windows                  2 hrs 48 mins       ███████████�
 Opus                     4,243 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
+🤖 AI-Driven — 99.91% of written lines came from AI
 📚 Verbose Prompter — average 4,427 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 00:51:02 UTC
+ Last Updated on 12/08/2026 00:58:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
