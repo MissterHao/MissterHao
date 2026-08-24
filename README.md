@@ -63,46 +63,39 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 48 mins             █████████░░░░░░░░░░░░░░░░   36.35 % 
-Python                   45 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 13 mins       █████████████████████████   99.53 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Claude Code              15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 15 mins (100.0%)
 
-✍️ 8,899 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 894,890 Input Tokens, 264,303 Output Tokens
+🔤 433,409 Input Tokens, 211 Output Tokens
 
-💵 $85.79 Estimated AI Cost This Week
+💵 $4.65 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 20 AI Prompts
+🧠 2 AI Sessions, 13 AI Prompts
 
-Fable                    8,904 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 00:37:13 UTC
+ Last Updated on 24/08/2026 00:36:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
