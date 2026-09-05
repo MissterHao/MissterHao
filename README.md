@@ -63,44 +63,44 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ████████████░░░░░░░░░░░░░   48.46 % 
-Other                    1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Docker                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Markdown                 58 mins             ███████████░░░░░░░░░░░░░░   42.85 % 
+Other                    46 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Docker                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 47 mins       ███████████████████████░░   93.74 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Claude Code              2 hrs 3 mins        ███████████████████████░░   90.09 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 💻 Operating System: 
-Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 53 mins (96.28%)
+⏱ AI Coding Time: 2 hrs 8 mins (93.63%)
 
-✍️ 5,587 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 591 lines written by AI, 2 lines written by hand (99.66% AI-written)
 
-🔤 1,178,928 Input Tokens, 479,113 Output Tokens
+🔤 669,484 Input Tokens, 191,354 Output Tokens
 
-💵 $89.92 Estimated AI Cost This Week
+💵 $42.45 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 34 AI Prompts
+🧠 4 AI Sessions, 27 AI Prompts
 
-Fable                    5,597 lines         █████████████████████████   100.00 % 
+Fable                    591 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 14,927 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.66% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.51% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 01:46:46 UTC
+ Last Updated on 05/09/2026 01:47:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
