@@ -39,21 +39,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-🌆 Daytime                910 commits         █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌃 Evening                672 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌙 Night                  525 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+🌞 Morning                409 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+🌆 Daytime                917 commits         █████████░░░░░░░░░░░░░░░░   36.35 % 
+🌃 Evening                672 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌙 Night                  525 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Thursday                 533 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Friday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Saturday                 311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Sunday                   278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Monday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Tuesday                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Wednesday                235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Thursday                 533 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Friday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Saturday                 311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Sunday                   278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 
 
@@ -63,24 +63,44 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     1 min               ████████████████████████░   94.83 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Other                    3 mins              ██████████████████░░░░░░░   71.71 % 
+YAML                     1 min               ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+Codex Vscode             3 mins              ████████████████░░░░░░░░░   65.68 % 
+VS Code                  1 min               ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (71.71%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 85,683 Input Tokens, 6,638 Output Tokens
+
+💵 $1.75 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 7 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 2,534 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 01:53:27 UTC
+ Last Updated on 11/09/2026 01:51:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
