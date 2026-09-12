@@ -63,14 +63,13 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    3 mins              ██████████████████░░░░░░░   71.71 % 
-YAML                     1 min               ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    3 mins              █████████████████░░░░░░░░   69.94 % 
+YAML                     1 min               ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Codex Vscode             3 mins              ████████████████░░░░░░░░░   65.68 % 
-VS Code                  1 min               ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Codex Vscode             3 mins              █████████████████░░░░░░░░   69.80 % 
+VS Code                  1 min               ████████░░░░░░░░░░░░░░░░░   30.20 % 
 
 💻 Operating System: 
 Windows                  5 mins              █████████████████████████   100.00 % 
@@ -79,28 +78,27 @@ Windows                  5 mins              ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (71.71%)
+⏱ AI Coding Time: 3 mins (69.94%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 85,683 Input Tokens, 6,638 Output Tokens
+🔤 82,305 Input Tokens, 5,246 Output Tokens
 
-💵 $1.75 Estimated AI Cost This Week
+💵 $1.57 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 7 AI Prompts
+🧠 19 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,534 characters per prompt
+📚 Verbose Prompter — average 3,382 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 01:51:33 UTC
+ Last Updated on 12/09/2026 01:57:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
