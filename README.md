@@ -63,46 +63,46 @@ Sunday                   290 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Kotlin                   1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Other                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-CSS                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.52 % 
+Kotlin                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Rust                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 53 mins       ████████████████████████░   94.66 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Claude Code              2 hrs 55 mins       ███████████████████████░░   90.29 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 💻 Operating System: 
-Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 12 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 14 mins (100.0%)
 
-✍️ 3,477 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,912 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,544,748 Input Tokens, 567,399 Output Tokens
+🔤 3,050,707 Input Tokens, 296,372 Output Tokens
 
-💵 $132.19 Estimated AI Cost This Week
+💵 $73.47 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 44 AI Prompts
+🧠 10 AI Sessions, 27 AI Prompts
 
-Opus                     3,489 lines         █████████████████████████   100.00 % 
+Opus                     1,924 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 414 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 601 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 03:06:13 UTC
+ Last Updated on 30/09/2026 02:47:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
