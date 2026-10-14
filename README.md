@@ -63,45 +63,23 @@ Sunday                   290 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 59 mins             █████████░░░░░░░░░░░░░░░░   36.58 % 
-Rust                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 39 mins       ████████████████████████░   97.62 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (100.0%)
-
-✍️ 13,489 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,102,479 Input Tokens, 529,165 Output Tokens
-
-💵 $33.01 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 15 AI Prompts
-
-Opus                     8,469 lines         ████████████████░░░░░░░░░   62.57 % 
-Fable                    5,066 lines         █████████░░░░░░░░░░░░░░░░   37.43 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,169 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 04:19:19 UTC
+ Last Updated on 14/10/2026 02:30:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
